@@ -1,0 +1,7 @@
+App(
+    appid="power_limit_charge",
+    apptype=FlipperAppType.STARTUP,
+    entry_point="power_limit_charge_on_system_start",
+    requires=["power"],
+    order=81,
+)
