@@ -11,5 +11,6 @@ App(
         "desktop",
         "loader",
         "power",
+        "power_limit_charge",
     ],
 )
